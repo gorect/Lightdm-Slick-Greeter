@@ -10,7 +10,6 @@
 ## Packages needed for this to work.
 ##########################################################################################
 
-git clone https://github.com/gorect/Lightdm-Slick-Greeter.git
 sudo pacman -S lightdm arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings
 yay -S lightdm-settings lightdm-slick-greeter
 
