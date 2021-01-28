@@ -17,7 +17,7 @@ yay -S lightdm-settings lightdm-slick-greeter
 ## Move custom wallpapper to /usr/bin/wallpappers dir to replace the black wallpaper.
 ##########################################################################################
 
-cp Wallpaper.jpg /usr/share/backgrounds/arcolinux/Wallpaper.jpg
+sudo cp Wallpaper.jpg /usr/share/backgrounds/arcolinux/Wallpaper.jpg
 
 ##########################################################################################
 ## Updated lightdm.conf file with the correct settings set for lightdm
