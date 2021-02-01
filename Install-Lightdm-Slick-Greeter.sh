@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 ##########################################################################################
 ## A custom script for setting up the lightdm slick greeter. Works for Arcolinux 21.01.
@@ -36,7 +36,7 @@ sudo cp ./slick-greeter.conf /etc/lightdm/slick-greeter.conf
 ## Launch Lightdm-Settings
 ##########################################################################################
 
-sudo systemctl enable lightdm.service
-sudo lightdm-settings
+#sudo systemctl enable lightdm.service
+#sudo lightdm-settings
 
 ##########################################################################################
