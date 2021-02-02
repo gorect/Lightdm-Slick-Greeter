@@ -10,8 +10,8 @@
 ## Packages needed for this to work.
 ##########################################################################################
 
-sudo pacman -S lightdm arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings
-yay -S lightdm-settings lightdm-slick-greeter
+#sudo pacman -S lightdm arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings
+#yay -S lightdm-settings lightdm-slick-greeter
 
 ##########################################################################################
 ## Move custom wallpapper to /usr/bin/wallpappers dir to replace the black wallpaper.
